@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific files
+*.xcuserstate
+**/xcuserdata/
+
+# Keep shared schemes but ignore user scheme management files
+**/xcschememanagement.plist
+
+# SwiftPM local user state
+.swiftpm/
+
+# Build artifacts
+DerivedData/
+build/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+**/*.env
+**/*.env.*
+
+# Local secret files
+Secrets.plist
+**/Secrets.plist
+**/*Secrets*.plist
+
+# Keys and credentials
+*.p12
+*.mobileprovision
+*.pem
+*.key
+*.p8
+*.cer
+*.crt
+*.jks
+*.keystore
+
+# Logs
+*.log

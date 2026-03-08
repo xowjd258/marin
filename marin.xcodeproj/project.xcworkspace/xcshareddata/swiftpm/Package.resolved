@@ -1,0 +1,15 @@
+{
+  "originHash" : "a66c9b4bbe672f8266698557bdbdc8249e1c87e3afeb4a8069b5345fb26638ae",
+  "pins" : [
+    {
+      "identity" : "pag-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/libpag/pag-ios.git",
+      "state" : {
+        "revision" : "f0d00b79fe15aeb022fe773058c46cf3b01acfa0",
+        "version" : "4.5.36"
+      }
+    }
+  ],
+  "version" : 3
+}

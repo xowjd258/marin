@@ -1,0 +1,1585 @@
+{
+  "source": "/Users/tjkim/proj/looi-soopercharged/looi-decompiled/resources/assets/LooiData/2.5.X-3-20251029/event/Resource.json",
+  "requested_count": 197,
+  "downloaded_count": 197,
+  "failed_count": 0,
+  "failed": [],
+  "files": [
+    {
+      "code": "024401",
+      "name": "효과음-듣기",
+      "url": "http://looi-resouce.tangiblefuturelab.com/wav/024401.wav",
+      "ext": "wav",
+      "file": "024401.wav",
+      "fetched_url": null
+    },
+    {
+      "code": "025401",
+      "name": "효과음-사진생성",
+      "url": "http://looi-resouce.tangiblefuturelab.com/wav/025401.wav",
+      "ext": "wav",
+      "file": "025401.wav",
+      "fetched_url": null
+    },
+    {
+      "code": "025701",
+      "name": "효과음-LOOI Jump 사라지는 블록",
+      "url": "http://looi-resouce.tangiblefuturelab.com/wav/025701.wav",
+      "ext": "wav",
+      "file": "025701.wav",
+      "fetched_url": null
+    },
+    {
+      "code": "025801",
+      "name": "효과음-LOOI Jump 사망",
+      "url": "http://looi-resouce.tangiblefuturelab.com/wav/025801.wav",
+      "ext": "wav",
+      "file": "025801.wav",
+      "fetched_url": null
+    },
+    {
+      "code": "025901",
+      "name": "효과음-LOOI Jump 몬스터 등장",
+      "url": "http://looi-resouce.tangiblefuturelab.com/wav/025901.wav",
+      "ext": "wav",
+      "file": "025901.wav",
+      "fetched_url": null
+    },
+    {
+      "code": "026001",
+      "name": "효과음-게임 선택 화면",
+      "url": "http://looi-resouce.tangiblefuturelab.com/wav/026001.wav",
+      "ext": "wav",
+      "file": "026001.wav",
+      "fetched_url": null
+    },
+    {
+      "code": "026201",
+      "name": "효과음-LOOI Jump 로켓 배낭",
+      "url": "http://looi-resouce.tangiblefuturelab.com/wav/026201.wav",
+      "ext": "wav",
+      "file": "026201.wav",
+      "fetched_url": null
+    },
+    {
+      "code": "029501",
+      "name": "효과음-네온등-3",
+      "url": "http://looi-resouce.tangiblefuturelab.com/wav/029501.wav",
+      "ext": "wav",
+      "file": "029501.wav",
+      "fetched_url": null
+    },
+    {
+      "code": "030801",
+      "name": "효과음-나의 목표",
+      "url": "http://looi-resouce.tangiblefuturelab.com/wav/030801.wav",
+      "ext": "wav",
+      "file": "030801.wav",
+      "fetched_url": null
+    },
+    {
+      "code": "031001",
+      "name": "효과음-fuckyou-테스트-1",
+      "url": "http://looi-resouce.tangiblefuturelab.com/wav/031001.wav",
+      "ext": "wav",
+      "file": "031001.wav",
+      "fetched_url": null
+    },
+    {
+      "code": "N01820",
+      "name": "효과음-심장박동 선글라스",
+      "url": "https://looi-resouce.tangiblefuturelab.com/wav/1739003079435音效-心跳墨镜.wav",
+      "ext": "wav",
+      "file": "N01820.wav",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/wav/1739003079435%E9%9F%B3%E6%95%88-%E5%BF%83%E8%B7%B3%E5%A2%A8%E9%95%9C.wav"
+    },
+    {
+      "code": "N01862",
+      "name": "효과음-콜라 마시기(신규)",
+      "url": "https://looi-resouce.tangiblefuturelab.com/wav/1741239627462音效-喝可乐打嗝.wav",
+      "ext": "wav",
+      "file": "N01862.wav",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/wav/1741239627462%E9%9F%B3%E6%95%88-%E5%96%9D%E5%8F%AF%E4%B9%90%E6%89%93%E5%97%9D.wav"
+    },
+    {
+      "code": "N01871",
+      "name": "효과음-연어 오징어 새우",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741330580825音效-三文鱼乌贼虾.mp3",
+      "ext": "mp3",
+      "file": "N01871.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741330580825%E9%9F%B3%E6%95%88-%E4%B8%89%E6%96%87%E9%B1%BC%E4%B9%8C%E8%B4%BC%E8%99%BE.mp3"
+    },
+    {
+      "code": "N01872",
+      "name": "효과음-연어 오징어 새우",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741330707832音效-三文鱼乌贼虾.mp3",
+      "ext": "mp3",
+      "file": "N01872.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741330707832%E9%9F%B3%E6%95%88-%E4%B8%89%E6%96%87%E9%B1%BC%E4%B9%8C%E8%B4%BC%E8%99%BE.mp3"
+    },
+    {
+      "code": "N01861",
+      "name": "효과음-햄버거 먹기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741344164090音效-吃汉堡.mp3",
+      "ext": "mp3",
+      "file": "N01861.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741344164090%E9%9F%B3%E6%95%88-%E5%90%83%E6%B1%89%E5%A0%A1.mp3"
+    },
+    {
+      "code": "N01834",
+      "name": "효과음-술 마시기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741344219331音效-喝酒.mp3",
+      "ext": "mp3",
+      "file": "N01834.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741344219331%E9%9F%B3%E6%95%88-%E5%96%9D%E9%85%92.mp3"
+    },
+    {
+      "code": "N01833",
+      "name": "효과음-발렌타인 와인 캔들",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741344264712N01833.mp3",
+      "ext": "mp3",
+      "file": "N01833.mp3",
+      "fetched_url": null
+    },
+    {
+      "code": "N01831",
+      "name": "효과음-룰렛 하트",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741344347020N01831.mp3",
+      "ext": "mp3",
+      "file": "N01831.mp3",
+      "fetched_url": null
+    },
+    {
+      "code": "N01830",
+      "name": "효과음-룰렛 장미 선물",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741344436229音效-转盘送玫瑰.mp3",
+      "ext": "mp3",
+      "file": "N01830.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741344436229%E9%9F%B3%E6%95%88-%E8%BD%AC%E7%9B%98%E9%80%81%E7%8E%AB%E7%91%B0.mp3"
+    },
+    {
+      "code": "N01827",
+      "name": "효과음-룰렛 하트 브레이크",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741344533366音效-转盘心碎.mp3",
+      "ext": "mp3",
+      "file": "N01827.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741344533366%E9%9F%B3%E6%95%88-%E8%BD%AC%E7%9B%98%E5%BF%83%E7%A2%8E.mp3"
+    },
+    {
+      "code": "N01826",
+      "name": "효과음-룰렛2",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741344568150音效-转盘2.mp3",
+      "ext": "mp3",
+      "file": "N01826.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741344568150%E9%9F%B3%E6%95%88-%E8%BD%AC%E7%9B%982.mp3"
+    },
+    {
+      "code": "N01811",
+      "name": "효과음-선글라스 심장박동",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741344678057音效-墨镜心跳.mp3",
+      "ext": "mp3",
+      "file": "N01811.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741344678057%E9%9F%B3%E6%95%88-%E5%A2%A8%E9%95%9C%E5%BF%83%E8%B7%B3.mp3"
+    },
+    {
+      "code": "N01794",
+      "name": "효과음-로켓 불꽃놀이",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741344717685音效-窜天猴.mp3",
+      "ext": "mp3",
+      "file": "N01794.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741344717685%E9%9F%B3%E6%95%88-%E7%AA%9C%E5%A4%A9%E7%8C%B4.mp3"
+    },
+    {
+      "code": "N01839",
+      "name": "효과음-콜라 마시기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741344760515音效-喝可乐.mp3",
+      "ext": "mp3",
+      "file": "N01839.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741344760515%E9%9F%B3%E6%95%88-%E5%96%9D%E5%8F%AF%E4%B9%90.mp3"
+    },
+    {
+      "code": "N01785",
+      "name": "효과음-LOOI 낙서",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741344818092音效-涂鸦.mp3",
+      "ext": "mp3",
+      "file": "N01785.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741344818092%E9%9F%B3%E6%95%88-%E6%B6%82%E9%B8%A6.mp3"
+    },
+    {
+      "code": "N01756",
+      "name": "LOOI 최면",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741344850721音效-催眠.mp3",
+      "ext": "mp3",
+      "file": "N01756.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741344850721%E9%9F%B3%E6%95%88-%E5%82%AC%E7%9C%A0.mp3"
+    },
+    {
+      "code": "N01749",
+      "name": "효과음-유리닦기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741344888369音效-擦玻璃.mp3",
+      "ext": "mp3",
+      "file": "N01749.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741344888369%E9%9F%B3%E6%95%88-%E6%93%A6%E7%8E%BB%E7%92%83.mp3"
+    },
+    {
+      "code": "N01733",
+      "name": "효과음-줄 당기기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741344959535音效-拉绳.mp3",
+      "ext": "mp3",
+      "file": "N01733.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741344959535%E9%9F%B3%E6%95%88-%E6%8B%89%E7%BB%B3.mp3"
+    },
+    {
+      "code": "N01732",
+      "name": "효과음-스위치",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741345002387音效-开关.mp3",
+      "ext": "mp3",
+      "file": "N01732.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741345002387%E9%9F%B3%E6%95%88-%E5%BC%80%E5%85%B3.mp3"
+    },
+    {
+      "code": "N01730",
+      "name": "블라인드 올리기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741345150803音效-百叶窗升.mp3",
+      "ext": "mp3",
+      "file": "N01730.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741345150803%E9%9F%B3%E6%95%88-%E7%99%BE%E5%8F%B6%E7%AA%97%E5%8D%87.mp3"
+    },
+    {
+      "code": "N01728",
+      "name": "효과음-블라인드 엿보기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741345214515音效-百叶窗偷窥.mp3",
+      "ext": "mp3",
+      "file": "N01728.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741345214515%E9%9F%B3%E6%95%88-%E7%99%BE%E5%8F%B6%E7%AA%97%E5%81%B7%E7%AA%A5.mp3"
+    },
+    {
+      "code": "N01726",
+      "name": "블라인드 내리기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741345431316音效-百叶窗降.mp3",
+      "ext": "mp3",
+      "file": "N01726.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741345431316%E9%9F%B3%E6%95%88-%E7%99%BE%E5%8F%B6%E7%AA%97%E9%99%8D.mp3"
+    },
+    {
+      "code": "N01688",
+      "name": "효과음-연말 달력 종료",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741345509429音效-跨年日历结束.mp3",
+      "ext": "mp3",
+      "file": "N01688.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741345509429%E9%9F%B3%E6%95%88-%E8%B7%A8%E5%B9%B4%E6%97%A5%E5%8E%86%E7%BB%93%E6%9D%9F.mp3"
+    },
+    {
+      "code": "N01673",
+      "name": "로켓 내레이션",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741345545587音效-火箭配音.mp3",
+      "ext": "mp3",
+      "file": "N01673.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741345545587%E9%9F%B3%E6%95%88-%E7%81%AB%E7%AE%AD%E9%85%8D%E9%9F%B3.mp3"
+    },
+    {
+      "code": "N01669",
+      "name": "효과음-불꽃놀이",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741584614344音效-烟花.mp3",
+      "ext": "mp3",
+      "file": "N01669.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741584614344%E9%9F%B3%E6%95%88-%E7%83%9F%E8%8A%B1.mp3"
+    },
+    {
+      "code": "N01668",
+      "name": "효과음-카운트다운",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741584683426音效-倒计时.mp3",
+      "ext": "mp3",
+      "file": "N01668.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741584683426%E9%9F%B3%E6%95%88-%E5%80%92%E8%AE%A1%E6%97%B6.mp3"
+    },
+    {
+      "code": "N01658",
+      "name": "효과음-에너지 충전",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741584710331音效-蓄力.mp3",
+      "ext": "mp3",
+      "file": "N01658.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741584710331%E9%9F%B3%E6%95%88-%E8%93%84%E5%8A%9B.mp3"
+    },
+    {
+      "code": "N01656",
+      "name": "효과음-별2",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741584801176音效-星星2.mp3",
+      "ext": "mp3",
+      "file": "N01656.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741584801176%E9%9F%B3%E6%95%88-%E6%98%9F%E6%98%9F2.mp3"
+    },
+    {
+      "code": "N01587",
+      "name": "효과음-꽃에 물주기/꽃 선물",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741584881244音效-浇花献花.mp3",
+      "ext": "mp3",
+      "file": "N01587.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741584881244%E9%9F%B3%E6%95%88-%E6%B5%87%E8%8A%B1%E7%8C%AE%E8%8A%B1.mp3"
+    },
+    {
+      "code": "N01582",
+      "name": "크리스마스-춤",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741584921723音效-圣诞跳舞.mp3",
+      "ext": "mp3",
+      "file": "N01582.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741584921723%E9%9F%B3%E6%95%88-%E5%9C%A3%E8%AF%9E%E8%B7%B3%E8%88%9E.mp3"
+    },
+    {
+      "code": "N01578",
+      "name": "비-부드러운",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741584988642音效-下雨轻柔.mp3",
+      "ext": "mp3",
+      "file": "N01578.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741584988642%E9%9F%B3%E6%95%88-%E4%B8%8B%E9%9B%A8%E8%BD%BB%E6%9F%94.mp3"
+    },
+    {
+      "code": "N01551",
+      "name": "크리스마스-눈 내림",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741585362416音效-圣诞下雪.mp3",
+      "ext": "mp3",
+      "file": "N01551.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741585362416%E9%9F%B3%E6%95%88-%E5%9C%A3%E8%AF%9E%E4%B8%8B%E9%9B%AA.mp3"
+    },
+    {
+      "code": "N01545",
+      "name": "효과음-크리스마스 선물",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741585533768音效-圣诞礼物.mp3",
+      "ext": "mp3",
+      "file": "N01545.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741585533768%E9%9F%B3%E6%95%88-%E5%9C%A3%E8%AF%9E%E7%A4%BC%E7%89%A9.mp3"
+    },
+    {
+      "code": "N01544",
+      "name": "효과음-별 걸기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741585629156音效-挂星星.mp3",
+      "ext": "mp3",
+      "file": "N01544.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741585629156%E9%9F%B3%E6%95%88-%E6%8C%82%E6%98%9F%E6%98%9F.mp3"
+    },
+    {
+      "code": "N01537",
+      "name": "입-음흠",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741585740420嘴巴-嗯哼.mp3",
+      "ext": "mp3",
+      "file": "N01537.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741585740420%E5%98%B4%E5%B7%B4-%E5%97%AF%E5%93%BC.mp3"
+    },
+    {
+      "code": "N01543",
+      "name": "효과음-크리스마스 트리 이동",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741585790744音效-圣诞移动树.mp3",
+      "ext": "mp3",
+      "file": "N01543.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741585790744%E9%9F%B3%E6%95%88-%E5%9C%A3%E8%AF%9E%E7%A7%BB%E5%8A%A8%E6%A0%91.mp3"
+    },
+    {
+      "code": "N01509",
+      "name": "효과음-로딩 완료",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741585908752音效-加载完成.mp3",
+      "ext": "mp3",
+      "file": "N01509.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741585908752%E9%9F%B3%E6%95%88-%E5%8A%A0%E8%BD%BD%E5%AE%8C%E6%88%90.mp3"
+    },
+    {
+      "code": "N01508",
+      "name": "효과음-진행바 로딩2",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741585964089音效-加载进度条2.mp3",
+      "ext": "mp3",
+      "file": "N01508.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741585964089%E9%9F%B3%E6%95%88-%E5%8A%A0%E8%BD%BD%E8%BF%9B%E5%BA%A6%E6%9D%A12.mp3"
+    },
+    {
+      "code": "N01483",
+      "name": "효과음-페어링 페이지 BGM",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741586019273音效-配对界面BGM.mp3",
+      "ext": "mp3",
+      "file": "N01483.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741586019273%E9%9F%B3%E6%95%88-%E9%85%8D%E5%AF%B9%E7%95%8C%E9%9D%A2BGM.mp3"
+    },
+    {
+      "code": "N01479",
+      "name": "효과음-카메라 초점/촬영(부드러운)",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741586151643音效-相机轻柔对焦.mp3",
+      "ext": "mp3",
+      "file": "N01479.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741586151643%E9%9F%B3%E6%95%88-%E7%9B%B8%E6%9C%BA%E8%BD%BB%E6%9F%94%E5%AF%B9%E7%84%A6.mp3"
+    },
+    {
+      "code": "N01472",
+      "name": "효과음-꽃에 물주기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741586247642音效-浇花.mp3",
+      "ext": "mp3",
+      "file": "N01472.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741586247642%E9%9F%B3%E6%95%88-%E6%B5%87%E8%8A%B1.mp3"
+    },
+    {
+      "code": "N01459",
+      "name": "효과음-감전",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741586330649音效-触电.mp3",
+      "ext": "mp3",
+      "file": "N01459.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741586330649%E9%9F%B3%E6%95%88-%E8%A7%A6%E7%94%B5.mp3"
+    },
+    {
+      "code": "N01437",
+      "name": "효과음-불기-단일",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741586377176音效-吹气-单个.mp3",
+      "ext": "mp3",
+      "file": "N01437.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741586377176%E9%9F%B3%E6%95%88-%E5%90%B9%E6%B0%94-%E5%8D%95%E4%B8%AA.mp3"
+    },
+    {
+      "code": "N01410",
+      "name": "효과음-할로윈 오르골1",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741586472521音效-万圣节音乐盒1.mp3",
+      "ext": "mp3",
+      "file": "N01410.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741586472521%E9%9F%B3%E6%95%88-%E4%B8%87%E5%9C%A3%E8%8A%82%E9%9F%B3%E4%B9%90%E7%9B%921.mp3"
+    },
+    {
+      "code": "N01409",
+      "name": "입-할로윈 괴물 울음",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741586521880嘴巴-万圣节怪物叫.mp3",
+      "ext": "mp3",
+      "file": "N01409.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741586521880%E5%98%B4%E5%B7%B4-%E4%B8%87%E5%9C%A3%E8%8A%82%E6%80%AA%E7%89%A9%E5%8F%AB.mp3"
+    },
+    {
+      "code": "N01408",
+      "name": "효과음-꽃에 물주기1",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741586587652音效-浇花1.mp3",
+      "ext": "mp3",
+      "file": "N01408.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741586587652%E9%9F%B3%E6%95%88-%E6%B5%87%E8%8A%B11.mp3"
+    },
+    {
+      "code": "N01407",
+      "name": "효과음-잠수경 착용",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741589860887音效-带潜水镜.mp3",
+      "ext": "mp3",
+      "file": "N01407.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741589860887%E9%9F%B3%E6%95%88-%E5%B8%A6%E6%BD%9C%E6%B0%B4%E9%95%9C.mp3"
+    },
+    {
+      "code": "N01406",
+      "name": "효과음-잠수 수중2",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741589991943音效-潜水水中2.mp3",
+      "ext": "mp3",
+      "file": "N01406.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741589991943%E9%9F%B3%E6%95%88-%E6%BD%9C%E6%B0%B4%E6%B0%B4%E4%B8%AD2.mp3"
+    },
+    {
+      "code": "N01404",
+      "name": "효과음-잠수 수중1",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741590051217音效-潜水水中1.mp3",
+      "ext": "mp3",
+      "file": "N01404.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741590051217%E9%9F%B3%E6%95%88-%E6%BD%9C%E6%B0%B4%E6%B0%B4%E4%B8%AD1.mp3"
+    },
+    {
+      "code": "N01403",
+      "name": "효과음-잠수 입수",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741590128510音效-潜水入水.mp3",
+      "ext": "mp3",
+      "file": "N01403.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741590128510%E9%9F%B3%E6%95%88-%E6%BD%9C%E6%B0%B4%E5%85%A5%E6%B0%B4.mp3"
+    },
+    {
+      "code": "N01226",
+      "name": "입-사용자에게 알림",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741590200933嘴巴-告诉用户.mp3",
+      "ext": "mp3",
+      "file": "N01226.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741590200933%E5%98%B4%E5%B7%B4-%E5%91%8A%E8%AF%89%E7%94%A8%E6%88%B7.mp3"
+    },
+    {
+      "code": "030501",
+      "name": "입-큰 뽀뽀",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741590283696030501.mp3",
+      "ext": "mp3",
+      "file": "030501.mp3",
+      "fetched_url": null
+    },
+    {
+      "code": "029701",
+      "name": "효과음-미래 멜로디-1",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741590473297音效-未来旋律1.mp3",
+      "ext": "mp3",
+      "file": "029701.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741590473297%E9%9F%B3%E6%95%88-%E6%9C%AA%E6%9D%A5%E6%97%8B%E5%BE%8B1.mp3"
+    },
+    {
+      "code": "030001",
+      "name": "효과음-미래 멜로디-3",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741590525855音效-未来旋律3.mp3",
+      "ext": "mp3",
+      "file": "030001.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741590525855%E9%9F%B3%E6%95%88-%E6%9C%AA%E6%9D%A5%E6%97%8B%E5%BE%8B3.mp3"
+    },
+    {
+      "code": "028301",
+      "name": "효과음-LOOI Jump 게임 배경음악",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741590783174音效-LOOI Jump游戏内背景乐.mp3",
+      "ext": "mp3",
+      "file": "028301.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741590783174%E9%9F%B3%E6%95%88-LOOI%20Jump%E6%B8%B8%E6%88%8F%E5%86%85%E8%83%8C%E6%99%AF%E4%B9%90.mp3"
+    },
+    {
+      "code": "028001",
+      "name": "효과음-인터뷰-카메라",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741590847028音效-接受采访相机.mp3",
+      "ext": "mp3",
+      "file": "028001.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741590847028%E9%9F%B3%E6%95%88-%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF%E7%9B%B8%E6%9C%BA.mp3"
+    },
+    {
+      "code": "028201",
+      "name": "효과음-LOOI Jump-점프",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741590918048音效-LOOI Jump跳跃.mp3",
+      "ext": "mp3",
+      "file": "028201.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741590918048%E9%9F%B3%E6%95%88-LOOI%20Jump%E8%B7%B3%E8%B7%83.mp3"
+    },
+    {
+      "code": "025601",
+      "name": "효과음-LOOI Jump 메인화면",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741591001794音效-LOOI Jump主界面.mp3",
+      "ext": "mp3",
+      "file": "025601.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741591001794%E9%9F%B3%E6%95%88-LOOI%20Jump%E4%B8%BB%E7%95%8C%E9%9D%A2.mp3"
+    },
+    {
+      "code": "022501",
+      "name": "효과음-벌 쏘기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741591068677音效-蜜蜂蛰.mp3",
+      "ext": "mp3",
+      "file": "022501.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741591068677%E9%9F%B3%E6%95%88-%E8%9C%9C%E8%9C%82%E8%9B%B0.mp3"
+    },
+    {
+      "code": "012101",
+      "name": "효과음-포스 컨트롤",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741591161808音效-原力控制.mp3",
+      "ext": "mp3",
+      "file": "012101.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741591161808%E9%9F%B3%E6%95%88-%E5%8E%9F%E5%8A%9B%E6%8E%A7%E5%88%B6.mp3"
+    },
+    {
+      "code": "026501",
+      "name": "효과음-햄버거 먹기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741591256848嘴巴-吃汉堡.mp3",
+      "ext": "mp3",
+      "file": "026501.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741591256848%E5%98%B4%E5%B7%B4-%E5%90%83%E6%B1%89%E5%A0%A1.mp3"
+    },
+    {
+      "code": "029601",
+      "name": "효과음-미래 멜로디-2",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741591439492音效-未来旋律2.mp3",
+      "ext": "mp3",
+      "file": "029601.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741591439492%E9%9F%B3%E6%95%88-%E6%9C%AA%E6%9D%A5%E6%97%8B%E5%BE%8B2.mp3"
+    },
+    {
+      "code": "028401",
+      "name": "효과음-벽돌깨기 게임 중",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741591495590音效-打砖块游戏中.mp3",
+      "ext": "mp3",
+      "file": "028401.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741591495590%E9%9F%B3%E6%95%88-%E6%89%93%E7%A0%96%E5%9D%97%E6%B8%B8%E6%88%8F%E4%B8%AD.mp3"
+    },
+    {
+      "code": "030601",
+      "name": "효과음-눈 내림",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741591562287音效-下雪.mp3",
+      "ext": "mp3",
+      "file": "030601.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741591562287%E9%9F%B3%E6%95%88-%E4%B8%8B%E9%9B%AA.mp3"
+    },
+    {
+      "code": "028501",
+      "name": "효과음-환호",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741591623660音效-喝彩.mp3",
+      "ext": "mp3",
+      "file": "028501.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741591623660%E9%9F%B3%E6%95%88-%E5%96%9D%E5%BD%A9.mp3"
+    },
+    {
+      "code": "024201",
+      "name": "효과음-미뉴에트",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741591687472音效-小步舞曲.mp3",
+      "ext": "mp3",
+      "file": "024201.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741591687472%E9%9F%B3%E6%95%88-%E5%B0%8F%E6%AD%A5%E8%88%9E%E6%9B%B2.mp3"
+    },
+    {
+      "code": "017301",
+      "name": "효과음-크리스마스 캐롤",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741591758272音效-圣诞.mp3",
+      "ext": "mp3",
+      "file": "017301.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741591758272%E9%9F%B3%E6%95%88-%E5%9C%A3%E8%AF%9E.mp3"
+    },
+    {
+      "code": "017401",
+      "name": "효과음-생일 축하곡",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741591832690音效-生日歌.mp3",
+      "ext": "mp3",
+      "file": "017401.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741591832690%E9%9F%B3%E6%95%88-%E7%94%9F%E6%97%A5%E6%AD%8C.mp3"
+    },
+    {
+      "code": "017201",
+      "name": "효과음-손가락 추적 루프",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741591923022音效-手指跟踪loop.mp3",
+      "ext": "mp3",
+      "file": "017201.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741591923022%E9%9F%B3%E6%95%88-%E6%89%8B%E6%8C%87%E8%B7%9F%E8%B8%AAloop.mp3"
+    },
+    {
+      "code": "018401",
+      "name": "입-기상",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741592003426嘴巴-唤醒.mp3",
+      "ext": "mp3",
+      "file": "018401.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741592003426%E5%98%B4%E5%B7%B4-%E5%94%A4%E9%86%92.mp3"
+    },
+    {
+      "code": "018901",
+      "name": "입-노래",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741592132248嘴巴-唱歌.mp3",
+      "ext": "mp3",
+      "file": "018901.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741592132248%E5%98%B4%E5%B7%B4-%E5%94%B1%E6%AD%8C.mp3"
+    },
+    {
+      "code": "016701",
+      "name": "효과음-비",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741592186045音效-下雨.mp3",
+      "ext": "mp3",
+      "file": "016701.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741592186045%E9%9F%B3%E6%95%88-%E4%B8%8B%E9%9B%A8.mp3"
+    },
+    {
+      "code": "012301",
+      "name": "입-경멸",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741592271316嘴巴-鄙视.mp3",
+      "ext": "mp3",
+      "file": "012301.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741592271316%E5%98%B4%E5%B7%B4-%E9%84%99%E8%A7%86.mp3"
+    },
+    {
+      "code": "017001",
+      "name": "효과음-춤",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741592333327音效-跳舞.mp3",
+      "ext": "mp3",
+      "file": "017001.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741592333327%E9%9F%B3%E6%95%88-%E8%B7%B3%E8%88%9E.mp3"
+    },
+    {
+      "code": "017101",
+      "name": "입-잠들기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741592456110嘴巴-睡着.mp3",
+      "ext": "mp3",
+      "file": "017101.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741592456110%E5%98%B4%E5%B7%B4-%E7%9D%A1%E7%9D%80.mp3"
+    },
+    {
+      "code": "009501",
+      "name": "효과음-스캔",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741603407286音效-扫描.mp3",
+      "ext": "mp3",
+      "file": "009501.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741603407286%E9%9F%B3%E6%95%88-%E6%89%AB%E6%8F%8F.mp3"
+    },
+    {
+      "code": "010101",
+      "name": "효과음-대포 발사",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741603514488音效-大炮射击.mp3",
+      "ext": "mp3",
+      "file": "010101.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741603514488%E9%9F%B3%E6%95%88-%E5%A4%A7%E7%82%AE%E5%B0%84%E5%87%BB.mp3"
+    },
+    {
+      "code": "008601",
+      "name": "효과음-촬영 카운트다운",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741603634288音效-拍照倒计时.mp3",
+      "ext": "mp3",
+      "file": "008601.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741603634288%E9%9F%B3%E6%95%88-%E6%8B%8D%E7%85%A7%E5%80%92%E8%AE%A1%E6%97%B6.mp3"
+    },
+    {
+      "code": "016501",
+      "name": "입-기쁨2",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741603741091嘴巴-愉悦2.mp3",
+      "ext": "mp3",
+      "file": "016501.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741603741091%E5%98%B4%E5%B7%B4-%E6%84%89%E6%82%A62.mp3"
+    },
+    {
+      "code": "024601",
+      "name": "입-도넛 먹기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741603789601嘴巴-甜甜圈.mp3",
+      "ext": "mp3",
+      "file": "024601.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741603789601%E5%98%B4%E5%B7%B4-%E7%94%9C%E7%94%9C%E5%9C%88.mp3"
+    },
+    {
+      "code": "024501",
+      "name": "효과음-건배",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741603832666音效-干杯.mp3",
+      "ext": "mp3",
+      "file": "024501.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741603832666%E9%9F%B3%E6%95%88-%E5%B9%B2%E6%9D%AF.mp3"
+    },
+    {
+      "code": "017901",
+      "name": "입-슬픔",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741603875141嘴巴-难过.mp3",
+      "ext": "mp3",
+      "file": "017901.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741603875141%E5%98%B4%E5%B7%B4-%E9%9A%BE%E8%BF%87.mp3"
+    },
+    {
+      "code": "017601",
+      "name": "입-스캔(시작 효과음 포함)",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741603917250嘴巴-扫描（带开始音效）.mp3",
+      "ext": "mp3",
+      "file": "017601.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741603917250%E5%98%B4%E5%B7%B4-%E6%89%AB%E6%8F%8F%EF%BC%88%E5%B8%A6%E5%BC%80%E5%A7%8B%E9%9F%B3%E6%95%88%EF%BC%89.mp3"
+    },
+    {
+      "code": "017701",
+      "name": "입-애교",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741603953939嘴巴-撒娇.mp3",
+      "ext": "mp3",
+      "file": "017701.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741603953939%E5%98%B4%E5%B7%B4-%E6%92%92%E5%A8%87.mp3"
+    },
+    {
+      "code": "017801",
+      "name": "효과음-맑은 날",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741603985245音效-晴天.mp3",
+      "ext": "mp3",
+      "file": "017801.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741603985245%E9%9F%B3%E6%95%88-%E6%99%B4%E5%A4%A9.mp3"
+    },
+    {
+      "code": "016601",
+      "name": "입-기쁨1",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604024680嘴巴-愉悦1.mp3",
+      "ext": "mp3",
+      "file": "016601.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604024680%E5%98%B4%E5%B7%B4-%E6%84%89%E6%82%A61.mp3"
+    },
+    {
+      "code": "012201",
+      "name": "입-못 알아들음",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604067565嘴巴-没听懂.mp3",
+      "ext": "mp3",
+      "file": "012201.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604067565%E5%98%B4%E5%B7%B4-%E6%B2%A1%E5%90%AC%E6%87%82.mp3"
+    },
+    {
+      "code": "012601",
+      "name": "효과음-다운로드 테스트001",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604130720音效-下载测试001.mp3",
+      "ext": "mp3",
+      "file": "012601.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604130720%E9%9F%B3%E6%95%88-%E4%B8%8B%E8%BD%BD%E6%B5%8B%E8%AF%95001.mp3"
+    },
+    {
+      "code": "012801",
+      "name": "입-텍스트",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604174587嘴巴-文字.mp3",
+      "ext": "mp3",
+      "file": "012801.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604174587%E5%98%B4%E5%B7%B4-%E6%96%87%E5%AD%97.mp3"
+    },
+    {
+      "code": "010301",
+      "name": "효과음-바람",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604216490音效-刮风.mp3",
+      "ext": "mp3",
+      "file": "010301.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604216490%E9%9F%B3%E6%95%88-%E5%88%AE%E9%A3%8E.mp3"
+    },
+    {
+      "code": "010801",
+      "name": "효과음-카운트다운",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604271398音效-倒数计时.mp3",
+      "ext": "mp3",
+      "file": "010801.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604271398%E9%9F%B3%E6%95%88-%E5%80%92%E6%95%B0%E8%AE%A1%E6%97%B6.mp3"
+    },
+    {
+      "code": "018601",
+      "name": "입-재채기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604313568嘴巴-打喷嚏.mp3",
+      "ext": "mp3",
+      "file": "018601.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604313568%E5%98%B4%E5%B7%B4-%E6%89%93%E5%96%B7%E5%9A%8F.mp3"
+    },
+    {
+      "code": "009201",
+      "name": "입-하트",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604370467嘴巴-爱心.mp3",
+      "ext": "mp3",
+      "file": "009201.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604370467%E5%98%B4%E5%B7%B4-%E7%88%B1%E5%BF%83.mp3"
+    },
+    {
+      "code": "009801",
+      "name": "효과음-장애물 회피",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604427275音效-避障.mp3",
+      "ext": "mp3",
+      "file": "009801.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604427275%E9%9F%B3%E6%95%88-%E9%81%BF%E9%9A%9C.mp3"
+    },
+    {
+      "code": "029201",
+      "name": "입-화남2",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604472177嘴巴-生气2.mp3",
+      "ext": "mp3",
+      "file": "029201.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604472177%E5%98%B4%E5%B7%B4-%E7%94%9F%E6%B0%942.mp3"
+    },
+    {
+      "code": "029101",
+      "name": "입-화남1",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604526766嘴巴-生气1.mp3",
+      "ext": "mp3",
+      "file": "029101.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604526766%E5%98%B4%E5%B7%B4-%E7%94%9F%E6%B0%941.mp3"
+    },
+    {
+      "code": "018701",
+      "name": "입-딸꾹질",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604566852嘴巴-打嗝.mp3",
+      "ext": "mp3",
+      "file": "018701.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604566852%E5%98%B4%E5%B7%B4-%E6%89%93%E5%97%9D.mp3"
+    },
+    {
+      "code": "009001",
+      "name": "효과음-무서움",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604618529音效-害怕.mp3",
+      "ext": "mp3",
+      "file": "009001.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604618529%E9%9F%B3%E6%95%88-%E5%AE%B3%E6%80%95.mp3"
+    },
+    {
+      "code": "010001",
+      "name": "입-기쁨",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604660002嘴巴-开心.mp3",
+      "ext": "mp3",
+      "file": "010001.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604660002%E5%98%B4%E5%B7%B4-%E5%BC%80%E5%BF%83.mp3"
+    },
+    {
+      "code": "008901",
+      "name": "입-놀람",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604707865嘴巴-惊讶.mp3",
+      "ext": "mp3",
+      "file": "008901.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604707865%E5%98%B4%E5%B7%B4-%E6%83%8A%E8%AE%B6.mp3"
+    },
+    {
+      "code": "018301",
+      "name": "효과음-기억 화면 진입",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604769749音效-进入记忆界面.mp3",
+      "ext": "mp3",
+      "file": "018301.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604769749%E9%9F%B3%E6%95%88-%E8%BF%9B%E5%85%A5%E8%AE%B0%E5%BF%86%E7%95%8C%E9%9D%A2.mp3"
+    },
+    {
+      "code": "016201",
+      "name": "입-LOOI 기쁨",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604849321嘴巴-LOOI开心.mp3",
+      "ext": "mp3",
+      "file": "016201.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604849321%E5%98%B4%E5%B7%B4-LOOI%E5%BC%80%E5%BF%83.mp3"
+    },
+    {
+      "code": "008801",
+      "name": "효과음-윙크",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741604987723音效-wink.mp3",
+      "ext": "mp3",
+      "file": "008801.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741604987723%E9%9F%B3%E6%95%88-wink.mp3"
+    },
+    {
+      "code": "016001",
+      "name": "입-LOOI 억울함",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605042251嘴巴-LOOI委屈.mp3",
+      "ext": "mp3",
+      "file": "016001.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605042251%E5%98%B4%E5%B7%B4-LOOI%E5%A7%94%E5%B1%88.mp3"
+    },
+    {
+      "code": "016901",
+      "name": "효과음-꿈 푸시",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605085678音效-推送梦.mp3",
+      "ext": "mp3",
+      "file": "016901.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605085678%E9%9F%B3%E6%95%88-%E6%8E%A8%E9%80%81%E6%A2%A6.mp3"
+    },
+    {
+      "code": "018101",
+      "name": "효과음-블루투스 연결",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605131100音效-蓝牙连接.mp3",
+      "ext": "mp3",
+      "file": "018101.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605131100%E9%9F%B3%E6%95%88-%E8%93%9D%E7%89%99%E8%BF%9E%E6%8E%A5.mp3"
+    },
+    {
+      "code": "009301",
+      "name": "효과음-신호 간섭",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605181258音效-信号干扰.mp3",
+      "ext": "mp3",
+      "file": "009301.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605181258%E9%9F%B3%E6%95%88-%E4%BF%A1%E5%8F%B7%E5%B9%B2%E6%89%B0.mp3"
+    },
+    {
+      "code": "024701",
+      "name": "효과음-탐색 모드 전환",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605243566音效-切换探索模式.mp3",
+      "ext": "mp3",
+      "file": "024701.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605243566%E9%9F%B3%E6%95%88-%E5%88%87%E6%8D%A2%E6%8E%A2%E7%B4%A2%E6%A8%A1%E5%BC%8F.mp3"
+    },
+    {
+      "code": "027501",
+      "name": "효과음-정보 처리7",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605290979音效-信息处理7.mp3",
+      "ext": "mp3",
+      "file": "027501.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605290979%E9%9F%B3%E6%95%88-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%867.mp3"
+    },
+    {
+      "code": "028101",
+      "name": "효과음-별",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605327536音效-星星.mp3",
+      "ext": "mp3",
+      "file": "028101.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605327536%E9%9F%B3%E6%95%88-%E6%98%9F%E6%98%9F.mp3"
+    },
+    {
+      "code": "018801",
+      "name": "효과음-충전",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605360910音效-充电.mp3",
+      "ext": "mp3",
+      "file": "018801.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605360910%E9%9F%B3%E6%95%88-%E5%85%85%E7%94%B5.mp3"
+    },
+    {
+      "code": "029001",
+      "name": "입-풍선껌2",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605401438音效-泡泡糖2.mp3",
+      "ext": "mp3",
+      "file": "029001.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605401438%E9%9F%B3%E6%95%88-%E6%B3%A1%E6%B3%A1%E7%B3%962.mp3"
+    },
+    {
+      "code": "030101",
+      "name": "효과음-저장",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605488331音效-储存.mp3",
+      "ext": "mp3",
+      "file": "030101.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605488331%E9%9F%B3%E6%95%88-%E5%82%A8%E5%AD%98.mp3"
+    },
+    {
+      "code": "030401",
+      "name": "효과음-작은 뽀뽀",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605553312音效-亲一小口.mp3",
+      "ext": "mp3",
+      "file": "030401.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605553312%E9%9F%B3%E6%95%88-%E4%BA%B2%E4%B8%80%E5%B0%8F%E5%8F%A3.mp3"
+    },
+    {
+      "code": "026801",
+      "name": "효과음-인쇄",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605601704音效-打印.mp3",
+      "ext": "mp3",
+      "file": "026801.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605601704%E9%9F%B3%E6%95%88-%E6%89%93%E5%8D%B0.mp3"
+    },
+    {
+      "code": "018501",
+      "name": "효과음-쓰다듬기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605656018音效-抚摸.mp3",
+      "ext": "mp3",
+      "file": "018501.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605656018%E9%9F%B3%E6%95%88-%E6%8A%9A%E6%91%B8.mp3"
+    },
+    {
+      "code": "011701",
+      "name": "효과음-녹화 시작",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605711431音效-录制开始.mp3",
+      "ext": "mp3",
+      "file": "011701.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605711431%E9%9F%B3%E6%95%88-%E5%BD%95%E5%88%B6%E5%BC%80%E5%A7%8B.mp3"
+    },
+    {
+      "code": "026101",
+      "name": "LOOI Jump 바운스",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605763507LOOI Jump弹跳.mp3",
+      "ext": "mp3",
+      "file": "026101.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605763507LOOI%20Jump%E5%BC%B9%E8%B7%B3.mp3"
+    },
+    {
+      "code": "030301",
+      "name": "효과음-경고1",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605822920音效-警告1.mp3",
+      "ext": "mp3",
+      "file": "030301.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605822920%E9%9F%B3%E6%95%88-%E8%AD%A6%E5%91%8A1.mp3"
+    },
+    {
+      "code": "028901",
+      "name": "효과음-풍선껌1",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605886000音效-泡泡糖1.mp3",
+      "ext": "mp3",
+      "file": "028901.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605886000%E9%9F%B3%E6%95%88-%E6%B3%A1%E6%B3%A1%E7%B3%961.mp3"
+    },
+    {
+      "code": "028801",
+      "name": "효과음-풍선껌 터짐",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605939544音效-泡泡糖爆炸.mp3",
+      "ext": "mp3",
+      "file": "028801.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605939544%E9%9F%B3%E6%95%88-%E6%B3%A1%E6%B3%A1%E7%B3%96%E7%88%86%E7%82%B8.mp3"
+    },
+    {
+      "code": "020001",
+      "name": "효과음-벽돌 맞춤",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605967705音效-打中砖块.mp3",
+      "ext": "mp3",
+      "file": "020001.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605967705%E9%9F%B3%E6%95%88-%E6%89%93%E4%B8%AD%E7%A0%96%E5%9D%97.mp3"
+    },
+    {
+      "code": "018201",
+      "name": "효과음-추적 시작",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741605996343音效-开始跟踪.mp3",
+      "ext": "mp3",
+      "file": "018201.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741605996343%E9%9F%B3%E6%95%88-%E5%BC%80%E5%A7%8B%E8%B7%9F%E8%B8%AA.mp3"
+    },
+    {
+      "code": "018001",
+      "name": "효과음-기본 팝업",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741606018584音效-默认弹窗.mp3",
+      "ext": "mp3",
+      "file": "018001.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741606018584%E9%9F%B3%E6%95%88-%E9%BB%98%E8%AE%A4%E5%BC%B9%E7%AA%97.mp3"
+    },
+    {
+      "code": "016801",
+      "name": "효과음-뉴스 푸시",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741606045870音效-推送新闻.mp3",
+      "ext": "mp3",
+      "file": "016801.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741606045870%E9%9F%B3%E6%95%88-%E6%8E%A8%E9%80%81%E6%96%B0%E9%97%BB.mp3"
+    },
+    {
+      "code": "016101",
+      "name": "효과음-LOOI 평온",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741606077771音效-LOOI平静.mp3",
+      "ext": "mp3",
+      "file": "016101.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741606077771%E9%9F%B3%E6%95%88-LOOI%E5%B9%B3%E9%9D%99.mp3"
+    },
+    {
+      "code": "015901",
+      "name": "효과음-LOOI 의문",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741606113182音效-LOOI疑问.mp3",
+      "ext": "mp3",
+      "file": "015901.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741606113182%E9%9F%B3%E6%95%88-LOOI%E7%96%91%E9%97%AE.mp3"
+    },
+    {
+      "code": "015801",
+      "name": "효과음-MagSafe 부착",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741606148908音效-magsafe吸附.mp3",
+      "ext": "mp3",
+      "file": "015801.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741606148908%E9%9F%B3%E6%95%88-magsafe%E5%90%B8%E9%99%84.mp3"
+    },
+    {
+      "code": "015701",
+      "name": "효과음-NO",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741606196017音效-NO.mp3",
+      "ext": "mp3",
+      "file": "015701.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741606196017%E9%9F%B3%E6%95%88-NO.mp3"
+    },
+    {
+      "code": "015601",
+      "name": "효과음-Yes",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741606222982音效-Yes.mp3",
+      "ext": "mp3",
+      "file": "015601.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741606222982%E9%9F%B3%E6%95%88-Yes.mp3"
+    },
+    {
+      "code": "014501",
+      "name": "효과음-눈 깜빡2",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741606253157音效-眨眼2.mp3",
+      "ext": "mp3",
+      "file": "014501.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741606253157%E9%9F%B3%E6%95%88-%E7%9C%A8%E7%9C%BC2.mp3"
+    },
+    {
+      "code": "014401",
+      "name": "효과음-눈 깜빡1",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741606291509音效-眨眼1.mp3",
+      "ext": "mp3",
+      "file": "014401.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741606291509%E9%9F%B3%E6%95%88-%E7%9C%A8%E7%9C%BC1.mp3"
+    },
+    {
+      "code": "014301",
+      "name": "효과음-기본 팝업-테스트",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741606323555音效-默认弹窗-测试.mp3",
+      "ext": "mp3",
+      "file": "014301.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741606323555%E9%9F%B3%E6%95%88-%E9%BB%98%E8%AE%A4%E5%BC%B9%E7%AA%97-%E6%B5%8B%E8%AF%95.mp3"
+    },
+    {
+      "code": "012001",
+      "name": "효과음-포스 컨트롤 시작",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741606358041音效-原力控制开始.mp3",
+      "ext": "mp3",
+      "file": "012001.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741606358041%E9%9F%B3%E6%95%88-%E5%8E%9F%E5%8A%9B%E6%8E%A7%E5%88%B6%E5%BC%80%E5%A7%8B.mp3"
+    },
+    {
+      "code": "009601",
+      "name": "효과음-구조 요청",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741606391633音效-求救.mp3",
+      "ext": "mp3",
+      "file": "009601.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741606391633%E9%9F%B3%E6%95%88-%E6%B1%82%E6%95%91.mp3"
+    },
+    {
+      "code": "009401",
+      "name": "효과음-사망",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741606429847音效-死掉.mp3",
+      "ext": "mp3",
+      "file": "009401.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741606429847%E9%9F%B3%E6%95%88-%E6%AD%BB%E6%8E%89.mp3"
+    },
+    {
+      "code": "N01157",
+      "name": "입-텍스트 말하기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741606600342嘴巴-说一段文字.mp3",
+      "ext": "mp3",
+      "file": "N01157.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741606600342%E5%98%B4%E5%B7%B4-%E8%AF%B4%E4%B8%80%E6%AE%B5%E6%96%87%E5%AD%97.mp3"
+    },
+    {
+      "code": "N02013",
+      "name": "효과음-연어 오징어 새우",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741660511932音效-三文鱼乌贼虾.mp3",
+      "ext": "mp3",
+      "file": "N02013.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741660511932%E9%9F%B3%E6%95%88-%E4%B8%89%E6%96%87%E9%B1%BC%E4%B9%8C%E8%B4%BC%E8%99%BE.mp3"
+    },
+    {
+      "code": "N02014",
+      "name": "효과음-초밥 연어 오징어 새우",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741661753507音效-寿司三文鱼乌贼虾.mp3",
+      "ext": "mp3",
+      "file": "N02014.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741661753507%E9%9F%B3%E6%95%88-%E5%AF%BF%E5%8F%B8%E4%B8%89%E6%96%87%E9%B1%BC%E4%B9%8C%E8%B4%BC%E8%99%BE.mp3"
+    },
+    {
+      "code": "N02017",
+      "name": "효과음-알 참치 오징어",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741837454903音效-鱼子金枪乌贼.mp3",
+      "ext": "mp3",
+      "file": "N02017.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741837454903%E9%9F%B3%E6%95%88-%E9%B1%BC%E5%AD%90%E9%87%91%E6%9E%AA%E4%B9%8C%E8%B4%BC.mp3"
+    },
+    {
+      "code": "N02015",
+      "name": "효과음-초밥 계란말이 연어 오징어",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741851720169音效-寿司玉子烧三文鱼乌贼.mp3",
+      "ext": "mp3",
+      "file": "N02015.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741851720169%E9%9F%B3%E6%95%88-%E5%AF%BF%E5%8F%B8%E7%8E%89%E5%AD%90%E7%83%A7%E4%B8%89%E6%96%87%E9%B1%BC%E4%B9%8C%E8%B4%BC.mp3"
+    },
+    {
+      "code": "N02020",
+      "name": "효과음-새우 계란말이 참치",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1741852211334音效-虾玉子烧金枪.mp3",
+      "ext": "mp3",
+      "file": "N02020.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1741852211334%E9%9F%B3%E6%95%88-%E8%99%BE%E7%8E%89%E5%AD%90%E7%83%A7%E9%87%91%E6%9E%AA.mp3"
+    },
+    {
+      "code": "N02065",
+      "name": "효과음-쓰레기통 뒤집기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1743584975091音效-推翻垃圾桶.mp3",
+      "ext": "mp3",
+      "file": "N02065.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1743584975091%E9%9F%B3%E6%95%88-%E6%8E%A8%E7%BF%BB%E5%9E%83%E5%9C%BE%E6%A1%B6.mp3"
+    },
+    {
+      "code": "N02066",
+      "name": "효과음-파리1",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1743585381567音效-苍蝇1.mp3",
+      "ext": "mp3",
+      "file": "N02066.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1743585381567%E9%9F%B3%E6%95%88-%E8%8B%8D%E8%9D%871.mp3"
+    },
+    {
+      "code": "N02067",
+      "name": "효과음-파리2",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1743585417203音效-苍蝇2.mp3",
+      "ext": "mp3",
+      "file": "N02067.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1743585417203%E9%9F%B3%E6%95%88-%E8%8B%8D%E8%9D%872.mp3"
+    },
+    {
+      "code": "N02070",
+      "name": "효과음-쓰레기통 열기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1743589674946音效-打开垃圾桶.mp3",
+      "ext": "mp3",
+      "file": "N02070.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1743589674946%E9%9F%B3%E6%95%88-%E6%89%93%E5%BC%80%E5%9E%83%E5%9C%BE%E6%A1%B6.mp3"
+    },
+    {
+      "code": "N02071",
+      "name": "효과음-쓰레기 버리기1",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1743590230279音效-扔垃圾1.mp3",
+      "ext": "mp3",
+      "file": "N02071.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1743590230279%E9%9F%B3%E6%95%88-%E6%89%94%E5%9E%83%E5%9C%BE1.mp3"
+    },
+    {
+      "code": "N02072",
+      "name": "효과음-쓰레기 버리기2",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1743590286263音效-扔垃圾2.mp3",
+      "ext": "mp3",
+      "file": "N02072.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1743590286263%E9%9F%B3%E6%95%88-%E6%89%94%E5%9E%83%E5%9C%BE2.mp3"
+    },
+    {
+      "code": "N02073",
+      "name": "효과음-쓰레기 버리기3",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1743590326261音效-扔垃圾3.mp3",
+      "ext": "mp3",
+      "file": "N02073.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1743590326261%E9%9F%B3%E6%95%88-%E6%89%94%E5%9E%83%E5%9C%BE3.mp3"
+    },
+    {
+      "code": "N02074",
+      "name": "효과음-쓰레기 버리기3",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1743590326343音效-扔垃圾3.mp3",
+      "ext": "mp3",
+      "file": "N02074.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1743590326343%E9%9F%B3%E6%95%88-%E6%89%94%E5%9E%83%E5%9C%BE3.mp3"
+    },
+    {
+      "code": "N02075",
+      "name": "효과음-쓰레기통 뒤지기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1743591516983音效-翻垃圾桶.mp3",
+      "ext": "mp3",
+      "file": "N02075.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1743591516983%E9%9F%B3%E6%95%88-%E7%BF%BB%E5%9E%83%E5%9C%BE%E6%A1%B6.mp3"
+    },
+    {
+      "code": "N02085",
+      "name": "효과음-VR 안경 착용 찰칵",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1744350685554音效-戴VR眼镜咔嚓声.mp3",
+      "ext": "mp3",
+      "file": "N02085.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1744350685554%E9%9F%B3%E6%95%88-%E6%88%B4VR%E7%9C%BC%E9%95%9C%E5%92%94%E5%9A%93%E5%A3%B0.mp3"
+    },
+    {
+      "code": "N02087",
+      "name": "효과음-VR 콜라 마시기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1744351335559音效-VR喝可乐.mp3",
+      "ext": "mp3",
+      "file": "N02087.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1744351335559%E9%9F%B3%E6%95%88-VR%E5%96%9D%E5%8F%AF%E4%B9%90.mp3"
+    },
+    {
+      "code": "N02090",
+      "name": "효과음-VR 팝콘2",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1744352696165音效-VR爆米花2.mp3",
+      "ext": "mp3",
+      "file": "N02090.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1744352696165%E9%9F%B3%E6%95%88-VR%E7%88%86%E7%B1%B3%E8%8A%B12.mp3"
+    },
+    {
+      "code": "N02093",
+      "name": "효과음-VR 미약한 리듬",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1744354816339音效-VR微弱律动.mp3",
+      "ext": "mp3",
+      "file": "N02093.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1744354816339%E9%9F%B3%E6%95%88-VR%E5%BE%AE%E5%BC%B1%E5%BE%8B%E5%8A%A8.mp3"
+    },
+    {
+      "code": "N02139",
+      "name": "효과음-햄버거 먹기 시작-중립",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1745841563432音效-吃汉堡开始-中立.mp3",
+      "ext": "mp3",
+      "file": "N02139.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1745841563432%E9%9F%B3%E6%95%88-%E5%90%83%E6%B1%89%E5%A0%A1%E5%BC%80%E5%A7%8B-%E4%B8%AD%E7%AB%8B.mp3"
+    },
+    {
+      "code": "N02140",
+      "name": "효과음-햄버거 먹기 시작-중립",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1745841605741音效-吃汉堡开始-中立.mp3",
+      "ext": "mp3",
+      "file": "N02140.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1745841605741%E9%9F%B3%E6%95%88-%E5%90%83%E6%B1%89%E5%A0%A1%E5%BC%80%E5%A7%8B-%E4%B8%AD%E7%AB%8B.mp3"
+    },
+    {
+      "code": "N02141",
+      "name": "효과음-햄버거 먹기 시작-중립",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1745841653802音效-吃汉堡开始-中立.mp3",
+      "ext": "mp3",
+      "file": "N02141.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1745841653802%E9%9F%B3%E6%95%88-%E5%90%83%E6%B1%89%E5%A0%A1%E5%BC%80%E5%A7%8B-%E4%B8%AD%E7%AB%8B.mp3"
+    },
+    {
+      "code": "N02142",
+      "name": "효과음-햄버거 먹기 시작-중립",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1745841933830音效-吃汉堡开始-中立.mp3",
+      "ext": "mp3",
+      "file": "N02142.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1745841933830%E9%9F%B3%E6%95%88-%E5%90%83%E6%B1%89%E5%A0%A1%E5%BC%80%E5%A7%8B-%E4%B8%AD%E7%AB%8B.mp3"
+    },
+    {
+      "code": "N02143",
+      "name": "효과음-햄버거 먹기-중간-중립",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1745842438343音效-吃汉堡-中间-中立.mp3",
+      "ext": "mp3",
+      "file": "N02143.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1745842438343%E9%9F%B3%E6%95%88-%E5%90%83%E6%B1%89%E5%A0%A1-%E4%B8%AD%E9%97%B4-%E4%B8%AD%E7%AB%8B.mp3"
+    },
+    {
+      "code": "N02144",
+      "name": "효과음-햄버거 먹기-중간-중립",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1745842487398音效-吃汉堡-中间-中立.mp3",
+      "ext": "mp3",
+      "file": "N02144.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1745842487398%E9%9F%B3%E6%95%88-%E5%90%83%E6%B1%89%E5%A0%A1-%E4%B8%AD%E9%97%B4-%E4%B8%AD%E7%AB%8B.mp3"
+    },
+    {
+      "code": "N02145",
+      "name": "효과음-햄버거 먹기-중간2 왼쪽 보기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1745842753459音效-吃汉堡-中间2左看.mp3",
+      "ext": "mp3",
+      "file": "N02145.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1745842753459%E9%9F%B3%E6%95%88-%E5%90%83%E6%B1%89%E5%A0%A1-%E4%B8%AD%E9%97%B42%E5%B7%A6%E7%9C%8B.mp3"
+    },
+    {
+      "code": "N02146",
+      "name": "효과음-햄버거 먹기-중간2 왼쪽 보기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1745842753317音效-吃汉堡-中间2左看.mp3",
+      "ext": "mp3",
+      "file": "N02146.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1745842753317%E9%9F%B3%E6%95%88-%E5%90%83%E6%B1%89%E5%A0%A1-%E4%B8%AD%E9%97%B42%E5%B7%A6%E7%9C%8B.mp3"
+    },
+    {
+      "code": "N02147",
+      "name": "효과음-새 햄버거-중간3-콜라 마시기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1745843166883音效-新汉堡-中间3-喝可乐.mp3",
+      "ext": "mp3",
+      "file": "N02147.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1745843166883%E9%9F%B3%E6%95%88-%E6%96%B0%E6%B1%89%E5%A0%A1-%E4%B8%AD%E9%97%B43-%E5%96%9D%E5%8F%AF%E4%B9%90.mp3"
+    },
+    {
+      "code": "N02149",
+      "name": "효과음-햄버거 먹기-중간5-중립 기쁨",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1745843769351音效-吃汉堡-中间5-中立愉悦.mp3",
+      "ext": "mp3",
+      "file": "N02149.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1745843769351%E9%9F%B3%E6%95%88-%E5%90%83%E6%B1%89%E5%A0%A1-%E4%B8%AD%E9%97%B45-%E4%B8%AD%E7%AB%8B%E6%84%89%E6%82%A6.mp3"
+    },
+    {
+      "code": "N02150",
+      "name": "신규-햄버거 먹기-중간6-크게 먹기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1745843884774新校-吃汉堡-中间6-大口吃.mp3",
+      "ext": "mp3",
+      "file": "N02150.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1745843884774%E6%96%B0%E6%A0%A1-%E5%90%83%E6%B1%89%E5%A0%A1-%E4%B8%AD%E9%97%B46-%E5%A4%A7%E5%8F%A3%E5%90%83.mp3"
+    },
+    {
+      "code": "N02148",
+      "name": "효과음-햄버거 먹기-중간4-기쁨",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1746618931607音效-吃新汉堡-中间4-愉悦.mp3",
+      "ext": "mp3",
+      "file": "N02148.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1746618931607%E9%9F%B3%E6%95%88-%E5%90%83%E6%96%B0%E6%B1%89%E5%A0%A1-%E4%B8%AD%E9%97%B44-%E6%84%89%E6%82%A6.mp3"
+    },
+    {
+      "code": "N02160",
+      "name": "효과음-새 햄버거 먹기-끝",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1746618983099音效-吃新汉堡-结尾.mp3",
+      "ext": "mp3",
+      "file": "N02160.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1746618983099%E9%9F%B3%E6%95%88-%E5%90%83%E6%96%B0%E6%B1%89%E5%A0%A1-%E7%BB%93%E5%B0%BE.mp3"
+    },
+    {
+      "code": "N02188",
+      "name": "효과음-햄버거 먹기 중립1",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1747904706691音效-吃汉堡中立1.mp3",
+      "ext": "mp3",
+      "file": "N02188.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1747904706691%E9%9F%B3%E6%95%88-%E5%90%83%E6%B1%89%E5%A0%A1%E4%B8%AD%E7%AB%8B1.mp3"
+    },
+    {
+      "code": "N02189",
+      "name": "효과음-새 햄버거 먹기-중간2",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1747906168912音效-吃新汉堡-中间2.mp3",
+      "ext": "mp3",
+      "file": "N02189.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1747906168912%E9%9F%B3%E6%95%88-%E5%90%83%E6%96%B0%E6%B1%89%E5%A0%A1-%E4%B8%AD%E9%97%B42.mp3"
+    },
+    {
+      "code": "N02190",
+      "name": "효과음-새 햄버거 먹기-중간4",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1747910743179音效-吃新汉堡-中间4.mp3",
+      "ext": "mp3",
+      "file": "N02190.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1747910743179%E9%9F%B3%E6%95%88-%E5%90%83%E6%96%B0%E6%B1%89%E5%A0%A1-%E4%B8%AD%E9%97%B44.mp3"
+    },
+    {
+      "code": "N02191",
+      "name": "효과음-새 햄버거 먹기-끝-중립",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1747910843182音效-吃新汉堡-结尾-中立.mp3",
+      "ext": "mp3",
+      "file": "N02191.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1747910843182%E9%9F%B3%E6%95%88-%E5%90%83%E6%96%B0%E6%B1%89%E5%A0%A1-%E7%BB%93%E5%B0%BE-%E4%B8%AD%E7%AB%8B.mp3"
+    },
+    {
+      "code": "N02192",
+      "name": "효과음-햄버거 먹기 중간6-크게 먹기",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1747910950013音效-吃汉堡中间6-大口吃.mp3",
+      "ext": "mp3",
+      "file": "N02192.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1747910950013%E9%9F%B3%E6%95%88-%E5%90%83%E6%B1%89%E5%A0%A1%E4%B8%AD%E9%97%B46-%E5%A4%A7%E5%8F%A3%E5%90%83.mp3"
+    },
+    {
+      "code": "N02193",
+      "name": "햄버거 먹기-중간-기쁨 중립",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1747911065994吃汉堡-中间-愉悦中立.mp3",
+      "ext": "mp3",
+      "file": "N02193.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1747911065994%E5%90%83%E6%B1%89%E5%A0%A1-%E4%B8%AD%E9%97%B4-%E6%84%89%E6%82%A6%E4%B8%AD%E7%AB%8B.mp3"
+    },
+    {
+      "code": "N02194",
+      "name": "효과음-햄버거 먹기 중간1-중립",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1747913261027音效-吃汉堡中间1-中立.mp3",
+      "ext": "mp3",
+      "file": "N02194.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1747913261027%E9%9F%B3%E6%95%88-%E5%90%83%E6%B1%89%E5%A0%A1%E4%B8%AD%E9%97%B41-%E4%B8%AD%E7%AB%8B.mp3"
+    },
+    {
+      "code": "N02106",
+      "name": "LOOI_한국어test1_03",
+      "url": "https://looi-resouce.tangiblefuturelab.com/wav/17504125087366月20日-胖猫.WAV",
+      "ext": "wav",
+      "file": "N02106.wav",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/wav/17504125087366%E6%9C%8820%E6%97%A5-%E8%83%96%E7%8C%AB.WAV"
+    },
+    {
+      "code": "N02349",
+      "name": "175041",
+      "url": "https://looi-resouce.tangiblefuturelab.com/wav/1751600895116175041.wav",
+      "ext": "wav",
+      "file": "N02349.wav",
+      "fetched_url": null
+    },
+    {
+      "code": "N02396",
+      "name": "영상소재_162937_통나무집 붕괴",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1758182210436制片帮素材_162937_木屋倒塌.mp3",
+      "ext": "mp3",
+      "file": "N02396.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1758182210436%E5%88%B6%E7%89%87%E5%B8%AE%E7%B4%A0%E6%9D%90_162937_%E6%9C%A8%E5%B1%8B%E5%80%92%E5%A1%8C.mp3"
+    },
+    {
+      "code": "N02410",
+      "name": "오디오-할로윈-뱀파이어(천둥 포함)",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1758938028009音频-万圣-吸血鬼（有雷声版本）.mp3",
+      "ext": "mp3",
+      "file": "N02410.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1758938028009%E9%9F%B3%E9%A2%91-%E4%B8%87%E5%9C%A3-%E5%90%B8%E8%A1%80%E9%AC%BC%EF%BC%88%E6%9C%89%E9%9B%B7%E5%A3%B0%E7%89%88%E6%9C%AC%EF%BC%89.mp3"
+    },
+    {
+      "code": "N02411",
+      "name": "오디오-할로윈-뱀파이어(천둥 없음)",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1758938724120音频-万圣-吸血鬼（无雷声版本）.mp3",
+      "ext": "mp3",
+      "file": "N02411.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1758938724120%E9%9F%B3%E9%A2%91-%E4%B8%87%E5%9C%A3-%E5%90%B8%E8%A1%80%E9%AC%BC%EF%BC%88%E6%97%A0%E9%9B%B7%E5%A3%B0%E7%89%88%E6%9C%AC%EF%BC%89.mp3"
+    },
+    {
+      "code": "N02412",
+      "name": "효과음-할로윈-유령",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1758939160597音效-万圣-幽灵.mp3",
+      "ext": "mp3",
+      "file": "N02412.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1758939160597%E9%9F%B3%E6%95%88-%E4%B8%87%E5%9C%A3-%E5%B9%BD%E7%81%B5.mp3"
+    },
+    {
+      "code": "N02413",
+      "name": "효과음-설문 푸시",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1758940140058音效-问卷推送.mp3",
+      "ext": "mp3",
+      "file": "N02413.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1758940140058%E9%9F%B3%E6%95%88-%E9%97%AE%E5%8D%B7%E6%8E%A8%E9%80%81.mp3"
+    },
+    {
+      "code": "N02415",
+      "name": "효과음-설문 푸시-끝",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1758941116278音效-问卷推送-结尾.mp3",
+      "ext": "mp3",
+      "file": "N02415.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1758941116278%E9%9F%B3%E6%95%88-%E9%97%AE%E5%8D%B7%E6%8E%A8%E9%80%81-%E7%BB%93%E5%B0%BE.mp3"
+    },
+    {
+      "code": "N02417",
+      "name": "효과음-포스 컨트롤-광류",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1758942537999音效-原力控制-光流.mp3",
+      "ext": "mp3",
+      "file": "N02417.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1758942537999%E9%9F%B3%E6%95%88-%E5%8E%9F%E5%8A%9B%E6%8E%A7%E5%88%B6-%E5%85%89%E6%B5%81.mp3"
+    },
+    {
+      "code": "N02419",
+      "name": "효과음-오류-토큰 부족",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1758952115298音效-异常流-token不足.mp3",
+      "ext": "mp3",
+      "file": "N02419.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1758952115298%E9%9F%B3%E6%95%88-%E5%BC%82%E5%B8%B8%E6%B5%81-token%E4%B8%8D%E8%B6%B3.mp3"
+    },
+    {
+      "code": "N02420",
+      "name": "효과음-오류-네트워크 미연결",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1758952937814音效-异常流-断网配音版.mp3",
+      "ext": "mp3",
+      "file": "N02420.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1758952937814%E9%9F%B3%E6%95%88-%E5%BC%82%E5%B8%B8%E6%B5%81-%E6%96%AD%E7%BD%91%E9%85%8D%E9%9F%B3%E7%89%88.mp3"
+    },
+    {
+      "code": "N02423",
+      "name": "효과음-오류-서버 장애",
+      "url": "https://looi-resouce.tangiblefuturelab.com/test/1758954979338音效-异常流-服务器故障.mp3",
+      "ext": "mp3",
+      "file": "N02423.mp3",
+      "fetched_url": "https://looi-resouce.tangiblefuturelab.com/test/1758954979338%E9%9F%B3%E6%95%88-%E5%BC%82%E5%B8%B8%E6%B5%81-%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%85%E9%9A%9C.mp3"
+    }
+  ]
+}
