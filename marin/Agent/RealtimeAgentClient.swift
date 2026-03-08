@@ -485,7 +485,12 @@ final class RealtimeAgentClient: ObservableObject {
         guard state != .connecting, state != .connected else { return }
         guard config.isValid, let url = config.websocketURL else {
             state = .failed
-            statusText = "Missing realtime config (endpoint/key/deployment)"
+            let missing = SecretsManager.missingKeys(RealtimeAgentConfig.requiredKeys)
+            if missing.isEmpty {
+                statusText = "Missing realtime config (endpoint/key/deployment)"
+            } else {
+                statusText = "Missing config: \(missing.joined(separator: ", "))"
+            }
             return
         }
 

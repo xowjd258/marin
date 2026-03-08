@@ -65,6 +65,12 @@ struct ContentView: View {
 #if os(iOS)
         .onReceive(NotificationCenter.default.publisher(for: UIApplication.didBecomeActiveNotification)) { _ in
             camera.resumeIfNeeded()
+            if agent.state == .idle || agent.state == .failed {
+                agent.connect()
+            }
+            if ble.autoScanConnectEnabled, ble.connectedDeviceName == nil, !ble.isScanning {
+                ble.startScan()
+            }
         }
 #endif
     }

@@ -1,6 +1,12 @@
 import Foundation
 
 struct RealtimeAgentConfig {
+    static let requiredKeys = [
+        "AZURE_OPENAI_ENDPOINT",
+        "AZURE_OPENAI_API_KEY",
+        "AZURE_OPENAI_REALTIME_DEPLOYMENT",
+    ]
+
     let endpoint: String
     let apiKey: String
     let deployment: String
